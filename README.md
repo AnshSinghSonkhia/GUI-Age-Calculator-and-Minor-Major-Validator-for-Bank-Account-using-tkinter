@@ -15,5 +15,6 @@
 
 >In Case of a Minor
 
-![](https://github.com/AnshSinghSonkhia/GUI-Age-Calculator-and-Minor-Major-Validator-for-Bank-Account-using-tkinter/blob/main/Gui-App-Screenshots/minorOutput.png)
+<img src="https://github.com/AnshSinghSonkhia/GUI-Age-Calculator-and-Minor-Major-Validator-for-Bank-Account-using-tkinter/blob/main/Gui-App-Screenshots/minorOutput.png" title="Minor Case" alt="Minor Case" width="" height="500"/>&nbsp;
+
 
